@@ -1,3 +1,25 @@
+
+# Search Movies on The Movie DB
+Which is bootstrapped with Create React App.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+```
+This app fetch data from themoviedb API. User can serach and filter movies by year, genre. Search by keywords on name of movies.
+can sort by popularity, Rating and Realeased date, Ascending and Descending.
+For each movie user can get more detail and cast in detail page.
+```
+	
+## Technologies
+Project is created with:
+* HTML5 / CSS3
+* JavaScript
+* React
+* API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

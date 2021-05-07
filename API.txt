@@ -1,9 +1,0 @@
-/*
-url to get credits: 
-`https://api.themoviedb.org/3/movie/${movie_id}/credits?api_key=${key}`
-url to get details:
-`https://api.themoviedb.org/3/movie/${movie_id}?api_key=${key}&language=en-US`
-url for details and cast:
-`https://api.themoviedb.org/3/movie/${movie_id}?api_key=${key}&language=en-US&append_to_response=credits`
-*/
-var key = "2d6a164a44aa91c01724f7aa944b39bf";
